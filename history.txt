@@ -1,0 +1,305 @@
+    1  sudo apt update
+    2  sudo apt install git
+    3  git --version
+    4  git config
+    5  git config -global user.name 'tshiamomahloko'
+    6  git config --global user.name 'tshiamomahloko'
+    7  git config --global user.mail 'tshiahloks@gmail.com'
+    8  git config core.editor sublime
+    9  sublime
+   10  git config --list
+   11  git config user.name
+   12  git status
+   13  clear
+   14  pwd
+   15  ls
+   16  mkdir linux_beginner
+   17  ls
+   18  cd linux_beginner/
+   19  git init
+   20  touch linux1.txt
+   21  nano linux1.txt
+   22  ls
+   23  cd linux_beginner
+   24  ls
+   25  git status
+   26  git add .
+   27  git status
+   28  git commit
+   29  git config --global user.name
+   30  git config
+   31  git remote add origin https://github.com/tshiamomahloko/linux_beginner.git
+   32  git push -u origin master
+   33  pwd
+   34  bash ./1-1.sh
+   35  nano 1-1.sh
+   36  bash ./1-1.sh
+   37  nano 1-2.sh
+   38  bash ./1-2.sh
+   39  nano  1-2.sh
+   40  bash ./1-2.sh
+   41  nano 1-3.sh
+   42  bash ./1-3.sh
+   43  ls
+   44  cd workspace
+   45  cd Linux_beginner
+   46  cd /home/recruit/Linux_beginner
+   47  ls
+   48  nano 1-3.sh
+   49  bash ./1-3.sh
+   50  cd workspace
+   51  cd /home/recruit/Linux_beginner
+   52  ls
+   53  nano 1-3.sh
+   54  cd workspace
+   55  cd /home/recruit/Linux_beginner
+   56  workspace
+   57  cd workspace
+   58  nano 1-4.sh
+   59  bash ./1-4.sh
+   60  nano 1-5.sh
+   61  nano 1-6.sh
+   62  nano 2-1.sh
+   63  nano 3-1.sh
+   64  bash ./3-1.sh
+   65  ls
+   66  clear
+   67  sudo apt -get install git
+   68  clear
+   69  cd /home/recruit
+   70  git config --global user.name
+   71  ls
+   72  echo "# Linux_beginner" >> README.md
+   73  ls
+   74  cd Linux_beginner
+   75  echo "# Linux_beginner" >> README.md
+   76  git init
+   77  git  add README.md
+   78  git commit -m "first commit"
+   79  git config user.email "tshiahloks@gmail.com"
+   80  git config user.name "tshiamomahloko"
+   81  git commit -m "first commit"
+   82  git remote add origin https://github.com/tshiamomahloko/Linux_beginner.git
+   83  git push -u origin master
+   84  git version
+   85  git status
+   86  git commit .
+   87  bash
+   88  bash ./1-1.sh
+   89  ls
+   90  nano 1-1.sh
+   91  ls
+   92  clear
+   93  cd recruit
+   94  cd /recruit
+   95  cd /home/recruit
+   96  ls
+   97  cd Linux_beginner
+   98  nano 1-1.sh
+   99  bash ./1-1.sh
+  100  bash /1-1.sh
+  101  bash
+  102  ls
+  103  pwd
+  104  mkdir workspace
+  105  cd workspace
+  106  ls
+  107  touch README.md
+  108  cp README.md CHANGELOG.md
+  109  touch exercise.md
+  110  mv exercise.md /tmp
+  111  rm /tmp/exercise.md
+  112  touch umuzi.md
+  113  touch recruits.md
+  114  touch cohort.md
+  115  nano umuzi.md
+  116  nano recruits.md
+  117  nano cohort.md
+  118  cat umuzi.md recruits.md cohort.md
+  119  cat umuzi.md recruits.md cohort.md > summary.md
+  120  ls
+  121  nano summary.md
+  122  date
+  123  nano 1-1.sh
+  124  chmod /1-1.sh
+  125  /1-1.sh
+  126  nano 1-1.sh
+  127  ./1-1.sh
+  128  nano 1-1.sh
+  129  ./1-1.sh
+  130  nano 1-1.sh
+  131  ./1-1.sh
+  132  bash
+  133  ls
+  134  cd linux_beginner
+  135  ls
+  136  nano linux1.txt
+  137  nano linux1.txt.save
+  138  ls
+  139  cd Linux_beginner 
+  140  ls
+  141  linux.txt
+  142  vim linux.txt
+  143  sublime linux.txt
+  144  find *.pdf
+  145  find help
+  146  ls
+  147  cd Linux_beginner
+  148  ls
+  149  git status
+  150  git add .
+  151  git commit
+  152  git commit -m "Linux beginner task"
+  153  git remote add origin https://github.com/tshiamomahloko/Linux_beginner.git
+  154  git push -u origin master 
+  155  git status
+  156  ls
+  157  cd Documents
+  158  touch pad.md
+  159  pwd
+  160  cd /home/recruit/Desktop
+  161  mkdir work
+  162  cp /home/recruit/Documents/pad.md /home/recruit/Desktop/work
+  163  ls
+  164  cd work
+  165  ls
+  166  cd /home/recruit/Desktop
+  167  cp /home/recruit/Documents/pad.md /home/recruit/Desktop/pad_copy.md
+  168  ls
+  169  sudo updatedb
+  170  locate updatedb
+  171  updatedb
+  172  cd -
+  173  cd-
+  174  cd -
+  175  cd /home/recruit
+  176  locate pad_copy.md
+  177  find ./home -name *.pdf
+  178  find /home -name *.pdf
+  179  find /home -name *.pdf > /home/recruit/result.txt
+  180  find -mtime -1 -print
+  181  clear
+  182  nano my_bio.md
+  183  mkdir my_files
+  184  mv my_bio.md /home/recruit/my_files
+  185  sudo apt install tree
+  186  ls
+  187  cd Linux_beginner
+  188  nano Task1-1.sh
+  189  ls
+  190  nano Task1-2.sh
+  191  ls
+  192  nano Task1-3.sh
+  193  nano Task1-4.sh
+  194  nano Task1-5.sh
+  195  nano Task1-6.sh
+  196  nano Task2-1.sh
+  197  nano Task3-1.sh
+  198  nano Task3-2.sh
+  199  nano Task3-3.sh
+  200  ls
+  201  rm linux.txt
+  202  nano Task3-4.sh
+  203  nano Task3-5
+  204  ls
+  205  nano Task4-1.sh
+  206  ls
+  207  locate umuzi
+  208  nano Task4-1
+  209  ls
+  210  nano Task4-2.sh
+  211  ls
+  212  clear
+  213  nano Task5-1.sh
+  214  nano Task5-2.sh
+  215  nano Task5-3.sh
+  216  nano Task5-4.sh
+  217  nano Task5-5.sh
+  218  nano Task5-6.sh
+  219  nano Task6-1.sh
+  220  nano Task6-2.sh
+  221  nano Task6-3.sh
+  222  nano Task7-1.sh
+  223  nano Task7-2.sh
+  224  nano Task7-3.sh
+  225  sudo apt update
+  226  sudo apt upgrade
+  227  ls
+  228  nano Task8-1.sh
+  229  nano Task8-2.sh
+  230  nano Task8-4.sh
+  231  ls
+  232  pwd
+  233  cd /home/recruit
+  234  ls
+  235  cd Downloads
+  236  ls
+  237  sudo dpkg -i code_1.43.1-1584515895_amd64.deb
+  238  cd /home/recruit/Linux_beginner
+  239  ls
+  240  cat Task9-4.sh
+  241  cat Task8-4.sh
+  242  nano Task8-5.sh
+  243  ls
+  244  git init
+  245  git config --global user.name "tshiamomahloko"
+  246  git config --global user.email "tshiahloks@gmail.com"
+  247  git add .
+  248  git commit
+  249  git commit -m "Linux Beginner Tasks .sh files."
+  250  git push
+  251  git pull
+  252  git push
+  253  cd /home/recruit
+  254  ls
+  255  mkdir git-basic-exercises
+  256  cd git-basic-exercises
+  257  ls -a
+  258  git init
+  259  ls -a
+  260  git status
+  261  touch README.md
+  262  ls -a
+  263  git status
+  264  git log
+  265  git add README.md
+  266  git status
+  267  git rm --cached README.md
+  268  git status
+  269  git add README.md
+  270  git status
+  271  git commit -m "Initial commit"
+  272  git log
+  273  q
+  274  nano README.md
+  275  cat README.md
+  276  git stats
+  277  git status
+  278  git add README.md
+  279  git commit -m "Second commit"
+  280  nano README.md
+  281  git status
+  282  git add README.md
+  283  git commit -m "Third commit"
+  284  git log
+  285  git checkout
+  286  git checkout 2fb618ce6b5ae397e61c3ac334ea67da41d6c084
+  287  cat README.md
+  288  git checkout master
+  289  cat README.md
+  290  git branch
+  291  git branch milkshake-flavours
+  292  git branch
+  293  git checkout milkshake-flavours
+  294  git branch
+  295  nano milkshakes.md
+  296  git status
+  297  git add .
+  298  git commit -m "Added Initial Flavours"
+  299  git log
+  300  git checkout master
+  301  git branch history
+  302  git log
+  303  git checkout history
+  304  git log
+  305  history > history.txt
